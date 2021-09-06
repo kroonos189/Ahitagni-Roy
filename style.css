@@ -262,19 +262,20 @@ h1:hover{
     font-family: 'Klee One', cursive;;
 }
 
-img{
+/* img{
     left: 250px;
     top: 300px;
     position: absolute;
     display: flex;
     height: 300px;
     width: 150px;
-}
+} */
 .btn{
     position: absolute;
     height: 50px;
     width: 200px;
     font-size: 32px;
+    top: 100px;
     font-family: 'Raleway', sans-serif;
     color: rgb(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
@@ -382,4 +383,9 @@ img{
     color: rgb(211, 72, 72);
 }
 
+#home{
+    background-image: url(/17239292.jpg);
+    background-repeat: no-repeat;
+    background-position:center ;
+}
 
