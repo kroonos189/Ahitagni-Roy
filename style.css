@@ -262,14 +262,14 @@ h1:hover{
     font-family: 'Klee One', cursive;;
 }
 
-/* img{
+img{
     left: 250px;
     top: 300px;
     position: absolute;
     display: flex;
     height: 300px;
     width: 150px;
-} */
+}
 .btn{
     position: absolute;
     height: 50px;
